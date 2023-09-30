@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800307106097",
+    "firebase_url": "https://ab-saudegsf-default-rtdb.firebaseio.com",
+    "project_id": "ab-saudegsf",
+    "storage_bucket": "ab-saudegsf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800307106097:android:1a11ebfac8692facc5e010",
+        "android_client_info": {
+          "package_name": "com.gesanfra.atencaobasica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800307106097-3pad82ql7lg8dcgibjp0ucvdohe9qvo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gesanfra.atencaobasica",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "800307106097-dv7dcduoasekm4dam7fgaknk54nulglr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5wVdYgAAzgcxRTQ2DEVnsEZLkYj1Ark"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800307106097-dv7dcduoasekm4dam7fgaknk54nulglr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800307106097-rcjp96p630tpr7cjommd8q7ftvk5be54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gesanfra.atencaobasica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
